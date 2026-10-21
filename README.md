@@ -45,23 +45,28 @@ I am Farhat Hussain, a Computer Science graduate from the University of Sindh Ja
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 GitHub Contribution Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=farhathussaincs&show_icons=true&hide_border=true&theme=transparent&title_color=0D9488&icon_color=0D9488" alt="GitHub Statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhathussaincs&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=0D9488" alt="Top Languages" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=farhathussaincs&theme=github-compact&hide_border=true&area=true"
+    alt="GitHub Contribution Activity Graph"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=farhathussaincs&theme=transparent&hide_border=true&ring=0D9488&fire=0D9488&currStreakLabel=0D9488" alt="Contribution Streak" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhathussaincs&theme=github"
+    alt="GitHub Contribution Summary"
+    width="100%"
+  />
 </p>
 
----
-
-## 📈 Contribution Activity
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farhathussaincs&bg_color=00000000&color=0D9488&line=0D9488&point=14B8A6&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph" />
+  <a href="https://github.com/farhathussaincs">
+    View my GitHub profile and contribution history →
+  </a>
 </p>
 
 ---
@@ -69,9 +74,21 @@ I am Farhat Hussain, a Computer Science graduate from the University of Sindh Ja
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=farhathussaincs&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Trophies" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=farhathussaincs&theme=flat&no-frame=true&margin-w=10&column=4"
+    alt="GitHub Achievements and Trophies"
+    width="100%"
+  />
 </p>
 
+<p align="center">
+  <a href="https://github.com/farhathussaincs?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/Explore-My%20Repositories-0D9488?style=for-the-badge&logo=github&logoColor=white"
+      alt="Explore my repositories"
+    />
+  </a>
+</p>
 ---
 
 ## 🤝 Connect With Me
