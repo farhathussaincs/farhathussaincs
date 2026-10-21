@@ -70,11 +70,7 @@ I am Farhat Hussain, a Computer Science graduate from the University of Sindh Ja
 
 ## 📈 Contribution Activity
 
-<p align="center">
-  <a href="https://github.com/farhathussaincs">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=farhathussaincs&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity Graph" />
-  </a>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/farhathussaincs">
