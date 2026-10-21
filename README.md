@@ -1,6 +1,6 @@
 # Hi 👋, I'm Farhat Hussain
 
-### Full Stack Developer
+### Full Stack Developer 🇵🇰
 
 <p align="center">
   <a href="https://farhathussain.netlify.app/">
@@ -24,48 +24,61 @@
 
 I am Farhat Hussain, a Computer Science graduate from the University of Sindh Jamshoro with a strong passion for software development and problem-solving. I enjoy building reliable and user-friendly applications while continuously learning through real-world projects and challenges. I am seeking an opportunity to start my professional career, contribute to meaningful projects, and grow as a developer in a professional environment.
 
-- 🌐 Portfolio: [farhathussain.netlify.app](https://farhathussain.netlify.app/)
-- 📫 Email: **farhathussaincs@gmail.com**
+- 🌐 **Portfolio:** [farhathussain.netlify.app](https://farhathussain.netlify.app/)
+- 📫 **Email:** [farhathussaincs@gmail.com](mailto:farhathussaincs@gmail.com)
 
 ---
 
 ## 🛠️ Languages and Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind,bootstrap" alt="Frontend Technologies" />
+**Frontend Development**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind,bootstrap" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Angular, Tailwind CSS, Bootstrap" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" alt="Backend Technologies" />
+**Backend Development**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" alt="Node.js, Express.js, Java, Spring Boot" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,docker,git,github,postman,linux" alt="Databases and Tools" />
+**Databases and Development Tools**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,docker,git,github,postman,linux" alt="PostgreSQL, MongoDB, MySQL, Redis, Firebase, Docker, Git, GitHub, Postman, Linux" />
 </p>
 
 ---
 
-## 📈 GitHub Contribution Activity
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=farhathussaincs&theme=github-compact&hide_border=true&area=true"
-    alt="GitHub Contribution Activity Graph"
-    width="100%"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=farhathussaincs&show_icons=true&hide_border=true&theme=transparent&title_color=0D9488&icon_color=0D9488" height="180" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhathussaincs&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=0D9488" height="180" alt="Most Used Programming Languages" />
 </p>
 
+---
+
+## 🔥 Contribution Streak
+
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhathussaincs&theme=github"
-    alt="GitHub Contribution Summary"
-    width="100%"
-  />
+  <img src="https://streak-stats.demolab.com?user=farhathussaincs&theme=transparent&hide_border=true&ring=0D9488&fire=0D9488&currStreakLabel=0D9488" alt="GitHub Contribution Streak" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <a href="https://github.com/farhathussaincs">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=farhathussaincs&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity Graph" />
+  </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/farhathussaincs">
-    View my GitHub profile and contribution history →
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhathussaincs&theme=github" width="100%" alt="GitHub Contribution Summary" />
   </a>
 </p>
 
@@ -74,21 +87,17 @@ I am Farhat Hussain, a Computer Science graduate from the University of Sindh Ja
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=farhathussaincs&theme=flat&no-frame=true&margin-w=10&column=4"
-    alt="GitHub Achievements and Trophies"
-    width="100%"
-  />
+  <a href="https://github.com/farhathussaincs">
+    <img src="https://github-profile-trophy.vercel.app/?username=farhathussaincs&theme=flat&no-frame=true&margin-w=8&column=4" width="100%" alt="GitHub Trophies and Achievements" />
+  </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/farhathussaincs?tab=repositories">
-    <img
-      src="https://img.shields.io/badge/Explore-My%20Repositories-0D9488?style=for-the-badge&logo=github&logoColor=white"
-      alt="Explore my repositories"
-    />
+    <img src="https://img.shields.io/badge/Explore-My%20Repositories-0D9488?style=for-the-badge&logo=github&logoColor=white" alt="Explore My Repositories" />
   </a>
 </p>
+
 ---
 
 ## 🤝 Connect With Me
@@ -106,5 +115,5 @@ I am Farhat Hussain, a Computer Science graduate from the University of Sindh Ja
 </p>
 
 <p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
+  **Thanks for visiting my profile! Let's build something great together. 🚀**
 </p>
