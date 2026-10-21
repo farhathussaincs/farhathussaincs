@@ -1,6 +1,6 @@
 # Hi 👋, I'm Farhat Hussain
 
-### Full Stack Developer 🇵🇰
+### Full Stack Developer
 
 <p align="center">
   <a href="https://farhathussain.netlify.app/">
@@ -34,19 +34,19 @@ I am Farhat Hussain, a Computer Science graduate from the University of Sindh Ja
 **Frontend Development**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind,bootstrap" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Angular, Tailwind CSS, Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind,bootstrap" alt="Frontend Technologies" />
 </p>
 
 **Backend Development**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" alt="Node.js, Express.js, Java, Spring Boot" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" alt="Backend Technologies" />
 </p>
 
 **Databases and Development Tools**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,docker,git,github,postman,linux" alt="PostgreSQL, MongoDB, MySQL, Redis, Firebase, Docker, Git, GitHub, Postman, Linux" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,docker,git,github,postman,linux" alt="Databases and Development Tools" />
 </p>
 
 ---
@@ -84,22 +84,6 @@ I am Farhat Hussain, a Computer Science graduate from the University of Sindh Ja
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <a href="https://github.com/farhathussaincs">
-    <img src="https://github-profile-trophy.vercel.app/?username=farhathussaincs&theme=flat&no-frame=true&margin-w=8&column=4" width="100%" alt="GitHub Trophies and Achievements" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/farhathussaincs?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-My%20Repositories-0D9488?style=for-the-badge&logo=github&logoColor=white" alt="Explore My Repositories" />
-  </a>
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
@@ -115,5 +99,5 @@ I am Farhat Hussain, a Computer Science graduate from the University of Sindh Ja
 </p>
 
 <p align="center">
-  **Thanks for visiting my profile! Let's build something great together. 🚀**
+  <b>Thanks for visiting my profile! Let's build something great together. 🚀</b>
 </p>
