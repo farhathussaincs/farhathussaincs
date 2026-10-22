@@ -92,5 +92,5 @@ I am Farhat Hussain, a Computer Science graduate from the University of Sindh Ja
 </p>
 
 <p align="center">
-  <b>Thanks for visiting my profile! Let's build something great together. 🚀</b>
+  <b>Thanks for visiting my profile! Let's build something great together.</b>
 </p>
